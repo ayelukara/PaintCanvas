@@ -1,0 +1,1 @@
+Welcome to PaintCanvas! A web-based painting application where you can unleash your creativity. Choose from a color palette or enter a hex code to change the background and brush color. Adjust brush and eraser sizes with a slider. Save your masterpiece as a JPEG or store locally. Explore the code and features below. #PaintCanvas #WebDevelopment #Art
